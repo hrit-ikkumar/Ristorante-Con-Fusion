@@ -1,3 +1,0 @@
-mongodb/ filter=lfs diff=lfs merge=lfs -text
-mongodb/data filter=lfs diff=lfs merge=lfs -text
-mongodb/data/journal/* filter=lfs diff=lfs merge=lfs -text
